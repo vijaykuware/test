@@ -9,7 +9,7 @@ public class Split_Use2
 		String st="We become what we think about";
 		String ref=" ";
 		
-		String[] out=st.split(ref);
+		String[] out = st.split(ref);
 		for(int i=0;i<=5;i++)
 		{
 			System.out.print(out[i]);
